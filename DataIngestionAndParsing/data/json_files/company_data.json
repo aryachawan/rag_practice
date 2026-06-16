@@ -1,0 +1,128 @@
+{
+  "company": {
+    "id": "CMP-48291",
+    "name": "TechNova Solutions",
+    "founded": 2018,
+    "headquarters": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "coordinates": {
+        "latitude": 19.076,
+        "longitude": 72.8777
+      }
+    },
+    "departments": [
+      {
+        "departmentId": "DEV001",
+        "name": "Engineering",
+        "manager": {
+          "employeeId": "EMP102",
+          "name": "Aarav Sharma"
+        },
+        "teams": [
+          {
+            "teamId": "T101",
+            "name": "Backend",
+            "members": [
+              {
+                "employeeId": "EMP201",
+                "name": "Priya Patel",
+                "skills": [
+                  "Python",
+                  "FastAPI",
+                  "PostgreSQL"
+                ]
+              },
+              {
+                "employeeId": "EMP202",
+                "name": "Rahul Mehta",
+                "skills": [
+                  "Node.js",
+                  "MongoDB",
+                  "Docker"
+                ]
+              }
+            ]
+          },
+          {
+            "teamId": "T102",
+            "name": "Frontend",
+            "members": [
+              {
+                "employeeId": "EMP203",
+                "name": "Sneha Gupta",
+                "skills": [
+                  "React",
+                  "Next.js",
+                  "TypeScript"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "departmentId": "HR001",
+        "name": "Human Resources",
+        "manager": {
+          "employeeId": "EMP103",
+          "name": "Anjali Verma"
+        },
+        "teams": [
+          {
+            "teamId": "T201",
+            "name": "Recruitment",
+            "members": [
+              {
+                "employeeId": "EMP301",
+                "name": "Karan Joshi",
+                "skills": [
+                  "Hiring",
+                  "Interviewing"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "projects": [
+    {
+      "projectId": "PRJ001",
+      "name": "NotesPortal AI",
+      "status": "In Progress",
+      "budget": 250000,
+      "milestones": [
+        {
+          "milestoneId": "M1",
+          "title": "Document Processing",
+          "completed": true
+        },
+        {
+          "milestoneId": "M2",
+          "title": "Vector Database Integration",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "projectId": "PRJ002",
+      "name": "Smart Chat System",
+      "status": "Planning",
+      "budget": 180000,
+      "milestones": []
+    }
+  ],
+  "metadata": {
+    "generatedAt": "2026-06-16T12:00:00Z",
+    "version": "1.0.0",
+    "tags": [
+      "sample",
+      "nested",
+      "json",
+      "demo"
+    ]
+  }
+}
