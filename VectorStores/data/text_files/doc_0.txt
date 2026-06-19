@@ -1,0 +1,11 @@
+
+    Machine Learning Fundamentals
+
+    Machine Learning is a branch of artificial intelligence that enables computers to learn from data without being explicitly programmed.
+    It focuses on identifying patterns and making predictions based on historical information.
+    Machine learning models improve their performance as they are exposed to more data.
+    Common types include supervised, unsupervised, and reinforcement learning.
+    Applications range from recommendation systems and fraud detection to image recognition and forecasting.
+    The quality of data plays a crucial role in model performance.
+    Proper evaluation helps ensure reliable and accurate predictions.
+    
