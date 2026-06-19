@@ -85,3 +85,6 @@ faiss_index/
 temp/
 tmp/
 *.tmp
+
+# openaifiles
+VectorEmbeddingsAndDatabases/openaiembeddings.ipynb
