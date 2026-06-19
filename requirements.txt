@@ -15,6 +15,7 @@ unstructured[docx]
 openpyxl
 jq
 matplotlib
+pipeline
 
 ## Embedding libraries
 langchain-huggingface

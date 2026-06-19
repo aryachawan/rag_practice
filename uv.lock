@@ -2818,6 +2818,15 @@ wheels = [
 ]
 
 [[package]]
+name = "pipeline"
+version = "0.1.0"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/91/6d/03f661ba5b9337c2c9fbe9668b08309c64996d213c46ee967b92e526148f/pipeline-0.1.0.tar.gz", hash = "sha256:907ac19a74d689607b55d492bf576142c7b7993d4dee1bad0a027be3767dda71", size = 2352, upload-time = "2020-09-26T11:13:48.663Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/a1/4f/6c37484430a0f9146d3549beea91e416769f409030d0530b52ced382036c/pipeline-0.1.0-py3-none-any.whl", hash = "sha256:d3a893837134eec4514f5a39e7d5ba027f8000700c6c8b738c10d7dda0966a02", size = 2641, upload-time = "2020-09-26T11:13:47.758Z" },
+]
+
+[[package]]
 name = "platformdirs"
 version = "4.10.0"
 source = { registry = "https://pypi.org/simple" }
@@ -3454,6 +3463,7 @@ dependencies = [
     { name = "matplotlib" },
     { name = "openpyxl" },
     { name = "pandas" },
+    { name = "pipeline" },
     { name = "pymupdf" },
     { name = "pypdf" },
     { name = "python-docx" },
@@ -3479,6 +3489,7 @@ requires-dist = [
     { name = "matplotlib", specifier = ">=3.11.0" },
     { name = "openpyxl", specifier = ">=3.1.5" },
     { name = "pandas", specifier = ">=3.0.3" },
+    { name = "pipeline", specifier = ">=0.1.0" },
     { name = "pymupdf", specifier = ">=1.27.2.3" },
     { name = "pypdf", specifier = ">=6.12.2" },
     { name = "python-docx", specifier = ">=1.2.0" },
