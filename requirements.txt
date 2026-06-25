@@ -20,3 +20,5 @@ pipeline
 ## Embedding libraries
 langchain-huggingface
 langchain-experimental
+
+rank_bm25
