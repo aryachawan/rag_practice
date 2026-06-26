@@ -16,6 +16,9 @@ openpyxl
 jq
 matplotlib
 pipeline
+wikipedia
+beautifulsoup4
+lxml
 
 ## Embedding libraries
 langchain-huggingface
