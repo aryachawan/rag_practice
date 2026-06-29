@@ -1,0 +1,90 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+venv/
+env/
+.venv/
+ENV/
+
+# Environment Variables
+
+.env
+.env.local
+.env.*.local
+
+# Python Cache
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Distribution / Packaging
+
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Jupyter Notebook
+
+.ipynb_checkpoints/
+
+# IDE Files
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+# Logs
+
+*.log
+
+# Testing
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Type Checking
+
+.mypy_cache/
+.pyre/
+
+# LangChain / AI Generated Data (optional)
+
+chroma_db/
+vectorstore/
+faiss_index/
+*.faiss
+*.pkl
+
+# Streamlit (if used)
+
+.streamlit/secrets.toml
+
+# Local Databases
+
+*.db
+*.sqlite3
+
+# Temporary Files
+
+temp/
+tmp/
+*.tmp
+
+# openaifiles
+VectorEmbeddingsAndDatabases/openaiembeddings.ipynb
