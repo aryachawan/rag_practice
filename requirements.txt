@@ -8,3 +8,4 @@ langchain-groq
 arxiv
 wikipedia
 Wikipedia-API
+langgraph-cli[inmem]
