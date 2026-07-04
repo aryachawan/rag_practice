@@ -9,3 +9,9 @@ arxiv
 wikipedia
 Wikipedia-API
 langgraph-cli[inmem]
+
+
+
+langchain-huggingface
+sentence-transformers
+faiss-cpu
