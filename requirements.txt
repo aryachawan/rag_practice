@@ -19,3 +19,4 @@ langchain-tavily
 
 langgraph_supervisor
 langchain-experimental
+langchainhub
