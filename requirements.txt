@@ -22,3 +22,5 @@ langchain-experimental
 langchainhub
 
 pageindex
+
+litellm
