@@ -24,3 +24,4 @@ langchainhub
 pageindex
 
 litellm
+langchain-litellm
