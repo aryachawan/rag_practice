@@ -25,3 +25,5 @@ pageindex
 
 litellm
 langchain-litellm
+
+langsmith
